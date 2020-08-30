@@ -134,22 +134,22 @@ form input:focus {
 
 .box.top {
     transform: translateY(-100vh);
-    animation: moveboxes 2s ease forwards;
+    animation: moveboxes 1s ease forwards;
 }
 
 .box.bottom {
     transform: translateY(100vh);
-    animation: moveboxes 2s ease forwards;
+    animation: moveboxes 1.2s ease forwards;
 }
 
 .box.left {
     transform: translateX(-100vw);
-    animation: moveboxes 2s ease forwards;
+    animation: moveboxes 1.4s ease forwards;
 }
 
 .box.right {
     transform: translateX(100vw);
-    animation: moveboxes 2s ease forwards;
+    animation: moveboxes 1.6s ease forwards;
 }
 
 
